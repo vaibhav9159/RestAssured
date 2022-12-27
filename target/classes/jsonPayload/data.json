@@ -1,0 +1,17 @@
+{
+  "location": {
+    "lat": -26.8467,
+    "lng": 80.9462 
+  },
+  "accuracy": 50,
+  "name": "Shiv Shambhu",
+  "phone_number": "971191919191",
+  "address": "Veer amar sainik,jankipuram,Lucknow",
+  "types": [
+    "",
+    "Veer Sainik Sthal"
+  ],
+  "website": "http://google.com",
+  "language": "Hindi"
+}
+
